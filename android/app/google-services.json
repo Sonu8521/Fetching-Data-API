@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623073329783",
+    "project_id": "fetching-data-api-1844d",
+    "storage_bucket": "fetching-data-api-1844d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623073329783:android:6b25c1207674b42f40bc72",
+        "android_client_info": {
+          "package_name": "com.example.fatching_data_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrSTM_ctZnScYA9xGqoRFtOeI0O_qRuKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
